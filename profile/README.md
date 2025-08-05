@@ -17,5 +17,5 @@ We are working towards making our stuff ***OPEN-SOURCE*** (yay!) which will hope
 ### What resources could we use? Is there anything else we need to know?
 XMan is the manual for X included in XTools. As per the games, their instructions are usually on their itch.io pages.  
   
-Please note that most of 9Studio's software is licensed under [9License](https://missingstudios.blogspot.com/p/9license.html), specifically version 10.0.0. You should carefully read the license before doing things with our software other than just using it.
+Please note that most of 9Studio's software is licensed under [9License](https://missingstudios.blogspot.com/p/9license.html), specifically versions 10.x.x. You should carefully read the license before doing things with our software other than just using it.
 # Thanks for reading this little introduction! :D
